@@ -27,7 +27,7 @@ This project uses Natural Language Processing and Machine Learning to detect whe
 - `app.py` – Streamlit frontend
 - `news_model.pkl` – Trained ML model
 - `tfidf.pkl` – Vectorizer
-- `report.pdf` – Final 2-page internship report
+- `report.pdf`
 
 ## ✅ Accuracy Achieved
 
